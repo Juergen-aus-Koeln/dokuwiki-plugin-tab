@@ -1,0 +1,7 @@
+base   instructions
+author Juergen Schuemmer
+email  h-j-schuemmer@web.de
+date   2020-05-14
+name   tab plugin
+desc   Special syntax for tabs
+url    http://dokuwiki.org/plugin:tab
