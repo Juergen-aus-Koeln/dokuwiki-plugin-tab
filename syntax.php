@@ -3,7 +3,7 @@
  * Plugin Tab: Inserts "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" into the document for every <tab> it encounters
  * 
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * @author     Juergen_aus Koeln (previous Tim Skoch <timskoch@hotmail.com>)
+ * @author     Juergen-aus-Koeln (previous Tim Skoch <timskoch@hotmail.com>)
  */
  
 if(!defined('DOKU_INC')) define('DOKU_INC',realpath(dirname(__FILE__).'/../../').'/');
